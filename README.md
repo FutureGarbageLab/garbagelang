@@ -1,1 +1,4 @@
-# garbagelang
+# GarbageLang
+Welcome to GarbageLang!
+
+
